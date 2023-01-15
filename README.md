@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tatvil
-- 👀 I’m interested in ...Photography, web development, Arduino, Unix (HPUX, Debian, Ubuntu, ...)
+- 👀 I’m interested in development, Arduino, Unix (HPUX, Debian, Ubuntu, ...) Photography
 - 🌱 I’m currently learning 
-      - App development with web tecnologies
+      - App development (Java, Relational Database)
+      - App development with web tecnologies (PHP, HTML, CSS, Javascript)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tatiana@tecnologia-facil.es
 
