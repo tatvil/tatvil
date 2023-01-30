@@ -7,7 +7,7 @@
 </ul>
 <li> 🌱 Actualmente estoy aprendiendo 
 <ul>
-      <li> Desarrollo de Aplicaciones Multiplataforma (Java, MySql, Entornos de desarrollo con <a href="https://github.com/fdepablo">@fdepablo</a>)
+      <li> Desarrollo de Aplicaciones Multiplataforma (Java, MySql, Entornos de desarrollo con <a href="https://github.com/fdepablo">@fdepablo</a> que, entre otras cosas me está enseñando a utilizar GitHub)
       <li> Instalación de proyectos de de energia solar fotovoltaica (A ver como integro esto con lo anterior) 
 </ul>
 <li> 💞️ Me gustaria colaborar en proyectos de Java
