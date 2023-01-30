@@ -3,7 +3,7 @@
 <li> 👀 ¿Que se hacer?
 <ul>
       <li> Diseño y desarrollo de paginas WEB FrontEnd y BackEnd (PHP, HTML, CSS, JavaScript, XML)
-      <li> Administrador de Sistemas Unix (HPUX, Linux, Debian, Ubuntu, ... ), utilizo mucho las Shell Script.
+      <li> Administrador de Sistemas Unix (HPUX, Linux, Debian, Ubuntu, ... ), utilizo mucho la Shell Script para automatización de tareas.
 </ul>
 <li> 🌱 Actualmente estoy aprendiendo 
 <ul>
