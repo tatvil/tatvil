@@ -7,7 +7,7 @@
       <li> Robótica con arduino </li>
       <li> Instalación de proyectos de de energia solar fotovoltaica</li>
 </ul>
-<li> 🌱 Actualmente estoy aprendiendo 
+      <li> 🌱 <b>Actualmente estoy aprendiendo </b>
 <ul>
       <li> Desarrollo de Aplicaciones Multiplataforma 
             <ul>
