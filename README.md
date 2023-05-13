@@ -5,11 +5,20 @@
       <li> Diseño y desarrollo de paginas WEB FrontEnd y BackEnd (PHP, HTML, CSS, JavaScript, XML)
       <li> Administrador de Sistemas Unix (HPUX, Linux, Debian, Ubuntu, ... ), utilizo mucho la Shell Script para automatización de tareas.
       <li> Robótica con arduino </li>
-      <li> Instalación de proyectos de de energia solar fotovoltaica (A ver como integro esto con lo anterior) </li>
+      <li> Instalación de proyectos de de energia solar fotovoltaica</li>
 </ul>
 <li> 🌱 Actualmente estoy aprendiendo 
 <ul>
-      <li> Desarrollo de Aplicaciones Multiplataforma (Programación, Bases de datos, Entornos de desarrollo, Lenguajes de marcas, Sistemas Informáticos, FOL)</li>
+      <li> Desarrollo de Aplicaciones Multiplataforma 
+            <ul>
+                  <li>Programación</li>
+                  <li>Bases de datos</li>
+                  <li>Entornos de desarrollo</li>
+                  <li>Lenguajes de marcas</li>
+                  <li>Sistemas Informáticos</li>
+                  <li>FOL</li>
+            </ul>
+      </li>
 </ul>
 <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB </li>
 <li> 📫 Contacta conmigo en Linkedin: <a href="https://www.linkedin.com/in/tatvil/">https://www.linkedin.com/in/tatvil/</a> </li>
