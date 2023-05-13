@@ -7,15 +7,15 @@
       <li> Robótica con arduino </li>
       <li> Instalación de proyectos de de energia solar fotovoltaica</li>
 </ul>
-      <li> 🌱 <b>Actualmente estoy aprendiendo </b>
+      <li> 🌱 <b>Actualmente estoy aprendiendo </b> </li>
 <ul>
-      <li> Desarrollo de Aplicaciones Multiplataforma 
+      <li> Desarrollo de Aplicaciones Multiplataforma (DAM)
             <ul>
-                  <li>Programación</li>
-                  <li>Bases de datos</li>
-                  <li>Entornos de desarrollo</li>
-                  <li>Lenguajes de marcas</li>
-                  <li>Sistemas Informáticos</li>
+                  <li>Programación: En Java</li>
+                  <li>Bases de datos: Normalización de Bases de datos, MySQL</li>
+                  <li>Entornos de desarrollo: Herramientas de desarrollo como Visual Studio Code, eclipse,GitHub, JavaDoc </li>
+                  <li>Lenguajes de marcas: HTML, CSS, XML, </li>
+                  <li>Sistemas Informáticos: Windows y Linux</li>
                   <li>FOL</li>
             </ul>
       </li>
