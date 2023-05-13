@@ -1,6 +1,6 @@
 <ul>
-<li> 👋 Hola, mi nombre es <b>Tatiana Villa</b>
-<li> 👀 ¿Que se hacer?
+      <li> 👋 Hola, mi nombre es <b>Tatiana Villa</b>
+      <li> 👀 <b>¿Que se hacer?</b>
 <ul>
       <li> Diseño y desarrollo de paginas WEB FrontEnd y BackEnd (PHP, HTML, CSS, JavaScript, XML)
       <li> Administrador de Sistemas Unix (HPUX, Linux, Debian, Ubuntu, ... ), utilizo mucho la Shell Script para automatización de tareas.
