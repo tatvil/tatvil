@@ -21,10 +21,9 @@
                   </li>
             </ul>
       <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB </li>
-      <li> 📫 Conoce mi experiencia y formación en <a href="https://www.linkedin.com/in/tatvil/">LinkedIn</a> </li>
+      <li>  Conoce mi experiencia y formación en <a href="https://www.linkedin.com/in/tatvil/">LinkedIn</a> </li>
 </ul>
-<p>Puedes contactar conmigo mediante <a href="tatiana@tecnologia-facil.es">correo electrónico</a></p>
-<p>Lenguajes y herramientas:
-SQL java html5 css3 javascript git mysql sqlite linux gnu</p>
+<p>📫 Puedes contactar conmigo mediante <a href="tatiana@tecnologia-facil.es">correo electrónico</a></p>
+
  
 
