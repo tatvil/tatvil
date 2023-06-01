@@ -5,7 +5,6 @@
             <li> Diseño y desarrollo de paginas WEB FrontEnd y BackEnd (PHP, HTML, CSS, JavaScript, XML, JSON)</li>
             <li> Administrador de Sistemas Unix (HPUX, Linux, Debian, Ubuntu, ... ), utilizo mucho la Shell Script para automatización de tareas.</li>
             <li> Programación Orientada a objetos con Java </li>
-            
             <li> Bases de datos: Diseño y normalización de Bases de datos, sentencias SQL</li>
             <li> Robótica con arduino </li>
             <li> Organización y proyectos de de energia solar fotovoltaica</li>
