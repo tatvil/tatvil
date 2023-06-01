@@ -23,12 +23,8 @@
       <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB </li>
       <li> 📫 Conoce mi experiencia y formación en <a href="https://www.linkedin.com/in/tatvil/">LinkedIn</a> </li>
 </ul>
-
-
-    📫 Puedes contactar conmigo mediante <a href="tatiana@tecnologia-facil.es">correo electrónico</a>
- 
+Puedes contactar conmigo mediante <a href="tatiana@tecnologia-facil.es">correo electrónico</a>
 Lenguajes y herramientas:
-
 ESQL java html5 css3 javascript typescript python visual basic android IBM Integration Bus angularjs git docker mariadb mssql mysql postgresql sqlite linux gnu
  
 
