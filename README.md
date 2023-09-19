@@ -26,7 +26,7 @@
       <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB </li>
       <li>  Conoce mi experiencia y formación en <a href="https://www.linkedin.com/in/tatvil/">LinkedIn</a> </li>
 </ul>
-<p>📫 Puedes contactar conmigo mediante <a href="tatiana@tecnologia-facil.es">correo electrónico</a></p>
+<p>📫 Puedes contactar conmigo mediante <a href="mailto:tatiana@tecnologia-facil.es">correo electrónico</a></p>
 
  
 
