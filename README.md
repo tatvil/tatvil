@@ -5,8 +5,9 @@
             <li> Diseño y desarrollo de paginas WEB FrontEnd y BackEnd (PHP, HTML, CSS, JavaScript, XML, JSON)</li>
             <li> Administrador de Sistemas Unix (HPUX, Linux, Debian, Ubuntu, ... ), utilizo mucho la Shell Script para automatización de tareas.</li>
             <li> Programación Orientada a objetos con Java </li>
-            <li> JavaDoc, UML, Swing, REST</li>
+            <li> JavaDoc, UML, Desarrollo de interfaces con Java Swing</li>
             <li> Bases de datos: Diseño y normalización de Bases de datos, sentencias SQL</li>
+<li>Sistemas de Gestion Empresarial - ERPs y CRMs</li>
             <li> Robótica con arduino </li>
             <li> Organización y proyectos de de energia solar fotovoltaica</li>
             <li> Administración y diseño de redes departamentales</li>
@@ -18,9 +19,11 @@
                    <li> Desarrollo de Aplicaciones Multiplataforma (DAM)
                         <ul>
                               <li>Programacion de Servicios y procesos(comunicacion de procesos cliente servidor, REST)</li>
-                              <li>Desarrollo de Interfaces (Java Swing)</li>
-                              <li>Sistemas de Gestion Empresarial - ERPs y CRMs</li>
-                        </ul>
+                              <li>Acceso a datos desde Java (Bases de datos, archivos xml, json,... ) </li>
+<li>Desarrollo de aplicaciones para moviles</li>
+<li>Empresa e iniciativa emprendedora </li>
+ <li>DevOps</li>
+                     </ul>
                   </li>
             </ul>
       <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB </li>
