@@ -20,13 +20,13 @@
                         <ul>
                               <li>Programacion de Servicios y procesos(comunicacion de procesos cliente servidor, REST)</li>
                               <li>Acceso a datos desde Java (Bases de datos, archivos xml, json,... ) </li>
-<li>Desarrollo de aplicaciones para moviles</li>
-<li>Empresa e iniciativa emprendedora </li>
- <li>DevOps</li>
-                     </ul>
+                              <li>Desarrollo de aplicaciones para moviles</li>
+                              <li>Empresa e iniciativa emprendedora </li>
+                               <li>DevOps</li>
+                        </ul>
                   </li>
             </ul>
-      <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB </li>
+      <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB y/o Aplicaciones en Java</li>
       <li>  Conoce mi experiencia y formación en <a href="https://www.linkedin.com/in/tatvil/">LinkedIn</a> </li>
 </ul>
 <p>📫 Puedes contactar conmigo mediante <a href="mailto:tatiana@tecnologia-facil.es">correo electrónico</a></p>
