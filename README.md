@@ -7,7 +7,9 @@
             <li> Programación Orientada a objetos con Java </li>
             <li> JavaDoc, UML, Desarrollo de interfaces con Java Swing</li>
             <li> Bases de datos: Diseño y normalización de Bases de datos, sentencias SQL</li>
-<li>Sistemas de Gestion Empresarial - ERPs y CRMs</li>
+            <li>Sistemas de Gestion Empresarial - ERPs y CRMs</li>
+            <li>Empresa e iniciativa emprendedora </li>
+            <li>DevOps</li>
             <li> Robótica con arduino </li>
             <li> Organización y proyectos de de energia solar fotovoltaica</li>
             <li> Administración y diseño de redes departamentales</li>
@@ -21,8 +23,6 @@
                               <li>Programacion de Servicios y procesos(comunicacion de procesos cliente servidor, REST)</li>
                               <li>Acceso a datos desde Java (Bases de datos, archivos xml, json,... ) </li>
                               <li>Desarrollo de aplicaciones para moviles</li>
-                              <li>Empresa e iniciativa emprendedora </li>
-                               <li>DevOps</li>
                         </ul>
                   </li>
             </ul>
