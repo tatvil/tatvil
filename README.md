@@ -17,9 +17,10 @@
             <li> Robótica con arduino </li>
             <li> Organización y proyectos de de energia solar fotovoltaica</li>
             <li> Administración y diseño de redes departamentales</li>
-            <li> Otras herramientas: Wordpress, Photoshop</li> 
-            <li> 👨‍💻 Puedes encontrar mis proyectos en la pestaña repositorios de <b>Github</b> </li>          
-            <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB y/o Aplicaciones en Java</li>
+             <li> Otras herramientas: Wordpress, Photoshop</li> 
+      </ul>
+      <li> 👨‍💻 Puedes encontrar mis proyectos en la pestaña repositorios de <b>Github</b> </li>          
+      <li> 💞️ Me gustaria colaborar en proyectos de desarrollo WEB y/o Aplicaciones en Java</li>
 </ul>
 <p>Conoce mi experiencia y formación en <a href="https://www.linkedin.com/in/tatvil/">LinkedIn</a> </p>
 <p>📫 Puedes contactar conmigo mediante <a href="mailto:tatiana@tecnologia-facil.es">correo electrónico</a></p>
