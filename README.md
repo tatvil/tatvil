@@ -56,10 +56,7 @@ Soy madre de tres y tengo años de experiencia en diversos sectores de la tecnol
 ---
 
 ### ⚙️ GitHub Analytics:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatvil&show_icons=true&theme=calm)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatvil&layout=compact&theme=graywhite)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=tatvil&theme=flat)](https://github.com/tatvil)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatvil&layout=compact&theme=calm)
 
 ---
 
