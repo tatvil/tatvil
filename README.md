@@ -55,6 +55,16 @@ Soy madre de tres y tengo años de experiencia en diversos sectores de la tecnol
 
 ---
 
+### ⚙️ GitHub Analytics:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical)](https://github.com/tu-usuario)
+
+---
+
 _Gracias por visitar mi perfil. Si te interesa colaborar en algún proyecto o tienes alguna consulta, no dudes en contactarme._
 
  
