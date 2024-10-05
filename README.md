@@ -60,8 +60,7 @@ Soy madre de tres y tengo años de experiencia en diversos sectores de la tecnol
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatvil&theme=vue)
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatvil&show_icons=true&theme=vue" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatvil&layout=compact&theme=vue" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatvil&layout=default&theme=vue" width="100%" />
 </div>
 
 ---
