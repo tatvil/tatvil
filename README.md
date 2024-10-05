@@ -17,7 +17,7 @@
 - Bootstrap, SpringBoot
 
 ### Herramientas:
-- XAMPP, Git, GitHub, JPA, JavaDoc
+- XAMPP, Git, GitHub, JPA, JavaDoc, Unity
 
 ### Bases de Datos:
 - MySQL, SQLite, Firebase, Dataverse
@@ -35,7 +35,7 @@
 
 - **[Bullet Journal App](#)**: Aplicación móvil que organiza el calendario diario, el tiempo y tareas del día.
 - **[Sistema de gestión de redes](#)**: Diseño y administración de redes departamentales.
-- **[Portfolio Personal](https://villaema.es)**: Mi portfolio personal con ejemplos de trabajos, CV y mucho más.
+- **[Portfolio Personal](https://www.villaema.es)**: Mi portfolio personal con ejemplos de trabajos, CV y mucho más.
 
 ## 💼 Experiencia Profesional
 
@@ -45,7 +45,7 @@ Soy madre de tres y tengo años de experiencia en diversos sectores de la tecnol
 
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - **Desarrollo de Aplicaciones Web (DAW)**: Próximo curso.
-- **Master en Inteligencia Artificial**: Próximo Curso
+- **Master en Inteligencia Artificial**: Próximo Curso.
 
 ## 🤝 ¡Conecta conmigo!
 
