@@ -1,6 +1,6 @@
-# Tatiana Villaema - Desarrolladora Full Stack
+# Tatiana Villa Ema - Desarrolladora Full Stack
 
-¡Hola! Soy **Tatiana Villaema**, desarrolladora con una amplia experiencia en la creación de soluciones tecnológicas. A lo largo de mi carrera, he trabajado con múltiples lenguajes de programación, tecnologías web, móviles y administración de sistemas.
+¡Hola! Soy **Tatiana Villa Ema**, desarrolladora con una amplia experiencia en la creación de soluciones tecnológicas. A lo largo de mi carrera, he trabajado con múltiples lenguajes de programación, tecnologías web, móviles y administración de sistemas.
 
 ## 🚀 Sobre mí
 
