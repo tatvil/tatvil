@@ -6,7 +6,7 @@
 
 - 🌍 **Ubicación**: Las Rozas de Madrid, España
 - 📚 Actualmente estoy cursando **Desarrollo de Aplicaciones Multiplataforma** en la Universidad de La Rioja (UNIR).
-- 💻 Tengo experiencia en **desarrollo de aplicaciones móviles Android**, **desarrollo web**, **administración de sistemas Unix** y **proyectos de energía solar fotovoltaica**.
+- 💻 Tengo experiencia en **desarrollo de aplicaciones móviles Android**, **desarrollo web**, **administración de sistemas Unix** y **Robotica con Arduino**.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -33,8 +33,8 @@
 
 ## 📂 Proyectos Destacados
 
-- **[Bullet Journal App](#)**: Aplicación móvil que organiza el calendario diario, el tiempo y tareas del día.
-- **[Sistema de gestión de redes](#)**: Diseño y administración de redes departamentales.
+- **Bullet Journal App**: Aplicación móvil que organiza el calendario diario, el tiempo y tareas del día.
+- **Sistema de gestión de redes**: Diseño y administración de redes departamentales.
 - **[Portfolio Personal](https://www.villaema.es)**: Mi portfolio personal con ejemplos de trabajos, CV y mucho más.
 
 ## 💼 Experiencia Profesional
