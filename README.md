@@ -5,7 +5,7 @@
 ## 🚀 Sobre mí
 
 - 🌍 **Ubicación**: Las Rozas de Madrid, España
-- 📚 Actualmente estoy cursando **Desarrollo de Aplicaciones Multiplataforma** en la Universidad de La Rioja (UNIR).
+- 📚 Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**
 - 💻 Tengo experiencia en **desarrollo de aplicaciones móviles Android**, **desarrollo web**, **administración de sistemas Unix** y **Robotica con Arduino**.
 
 ## 🛠️ Habilidades Técnicas
@@ -39,13 +39,11 @@
 
 ## 💼 Experiencia Profesional
 
-Soy madre de tres y tengo años de experiencia en diversos sectores de la tecnología, desde administración de sistemas Linux hasta la programación de soluciones web y móviles. Actualmente, me encuentro actualizando mis conocimientos y adaptando nuevas tecnologías a mi perfil.
+Soy madre de tres y tengo muchos años de experiencia en diversos sectores de la tecnología, desde administración de sistemas Linux hasta la programación de soluciones web y móviles. Actualmente, me encuentro actualizando mis conocimientos y adaptando nuevas tecnologías a mi perfil.
 
 ## 🌱 ¿Qué estoy aprendiendo?
 
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- **Desarrollo de Aplicaciones Web (DAW)**: Próximo curso.
-- **Master en Inteligencia Artificial**: Próximo Curso.
 
 ## 🤝 ¡Conecta conmigo!
 
