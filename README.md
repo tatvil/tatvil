@@ -1,65 +1,79 @@
-# Tatiana Villa Ema - Desarrolladora Full Stack
 
-¡Hola! Soy **Tatiana Villa Ema**, desarrolladora con una amplia experiencia en la creación de soluciones tecnológicas. A lo largo de mi carrera, he trabajado con múltiples lenguajes de programación, tecnologías web, móviles y administración de sistemas.
+# Tatiana Villa Ema | Full Stack Developer
+
+¡Hola! Soy **Tatiana Villa Ema**, desarrolladora Full Stack con experiencia en aplicaciones móviles, desarrollo web y administración de sistemas. Apasionada por la innovación tecnológica y la mejora continua.
+
+---
 
 ## 🚀 Sobre mí
+- 🌍 **Ubicación**: Las Rozas de Madrid, España  
+- 📚 Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**  
+- 💻 Experiencia en **Android**, **desarrollo web**, **administración de sistemas Unix** y **robótica con Arduino**  
 
-- 🌍 **Ubicación**: Las Rozas de Madrid, España
-- 📚 Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**
-- 💻 Tengo experiencia en **desarrollo de aplicaciones móviles Android**, **desarrollo web**, **administración de sistemas Unix** y **Robotica con Arduino**.
+---
 
 ## 🛠️ Habilidades Técnicas
 
-### Lenguajes de Programación:
-- Java, Python, HTML, CSS, JavaScript, PHP
+### Lenguajes:
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
 
 ### Frameworks:
-- Bootstrap, SpringBoot
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=spring)
 
 ### Herramientas:
-- XAMPP, Git, GitHub, JPA, JavaDoc, Unity
+Git | GitHub | XAMPP | JPA | JavaDoc | Unity
 
 ### Bases de Datos:
-- MySQL, SQLite, Firebase, Dataverse
+MySQL | SQLite | Firebase | Dataverse
 
 ### Sistemas Operativos:
-- Administración de sistemas Unix (HPUX, Linux, Debian, Ubuntu)
+Linux | Debian | Ubuntu | HPUX
 
 ### Otros:
 - Diseño gráfico (Canva, Photoshop)
-- Desarrollo robótico con Arduino
-- Organización de proyectos de energía solar fotovoltaica
+- Robótica con Arduino
+- Organización de proyectos de energía solar
 - DevOps
 
+---
+
 ## 📂 Proyectos Destacados
+- **villaema WEB**  
+  Mi propia pagina web realizada con html, CSS, Javascript y php
+  - [Ver proyecto](https://tatvil.github.io/villaemaweb)
+  - [Ver codigo](https://github.com/tatvil/villaemaweb)
 
-- **Bullet Journal App**: Aplicación móvil que organiza el calendario diario, el tiempo y tareas del día.
-- **Sistema de gestión de redes**: Diseño y administración de redes departamentales.
-- **[Portfolio Personal]([https://tatvil-portfolio.azurewebsites.net/](https://tatvil-portfolio.azurewebsites.net/))**: Mi portfolio personal con ejemplos de trabajos, CV y mucho más.
+- **Sistema de gestión de redes**  
+  Diseño y administración de redes departamentales.  
 
-## 💼 Experiencia Profesional
+- **Portfolio Personal**  
+  [tatvil-portfolio.azurewebsites.net](https://tatvil-portfolio.azurewebsites.net)
 
-Soy madre de tres y tengo muchos años de experiencia en diversos sectores de la tecnología, desde administración de sistemas Linux hasta la programación de soluciones web y móviles. Actualmente, me encuentro actualizando mis conocimientos y adaptando nuevas tecnologías a mi perfil.
+---
 
-## 🌱 ¿Qué estoy aprendiendo?
-
+## 🌱 Actualmente aprendiendo
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
-## 🤝 ¡Conecta conmigo!
+---
 
-- **LinkedIn**: [tatvil](https://www.linkedin.com/in/tatvil/)
-- **Correo**: [tatiana@villaema.es](mailto:tatiana@villaema.es)
-- **Portfolio**: [villaema.es](https://www.villaema.es) y [Azure WEB services](https://tatvil-portfolio.azurewebsites.net/)
+## 🤝 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tatvil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tatvil/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-villaema.es-green?style=flat&logo=azure)](https://www.villaema.es)  
+📧 **Correo**: [tatiana@villaema.es](mailto:tatiana@villaema.es)
 
 ---
 
-### ⚙️ GitHub Analytics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatvil&theme=zenburn) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatvil&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatvil&theme=zenburn) 
+### ⚙️ GitHub Analytics
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatvil&theme=zenburn)  
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatvil&theme=zenburn)  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatvil&theme=zenburn)  
+
 ---
 
-_Gracias por visitar mi perfil. Si te interesa colaborar en algún proyecto o tienes alguna consulta, no dudes en contactarme._
-
- 
-
+_Gracias por visitar mi perfil. Si te interesa colaborar en algún proyecto o tienes alguna consulta, ¡contáctame!_
