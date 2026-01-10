@@ -25,6 +25,7 @@
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=spring)
+![.NET](https://img.shields.io/badge/.NET-blueviolet?style=flat&logo=dotnet)
 
 ### Herramientas:
 Git | GitHub | XAMPP | JPA | JavaDoc | Unity
@@ -33,7 +34,7 @@ Git | GitHub | XAMPP | JPA | JavaDoc | Unity
 MySQL | SQLite | Firebase | Dataverse
 
 ### Sistemas Operativos:
-Linux | Debian | Ubuntu | HPUX
+Linux | Debian | Ubuntu | HPUX | Windows
 
 ### Otros:
 - Diseño gráfico (Canva, Photoshop)
