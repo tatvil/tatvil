@@ -54,12 +54,15 @@ Linux | Debian | Ubuntu | HPUX | Windows
   Diseño y administración de redes departamentales.  
 
 - **Portfolio Personal**  
-  [tatvil-portfolio.azurewebsites.net](https://tatvil-portfolio.azurewebsites.net)
+  [tatianavilla.es](https://www.tatianavilla.es)
 
 ---
-
-## 🌱 Actualmente aprendiendo
+## Titulaciones oficiales
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+---
+
+## 🌱 Actualmente 
+- Estudiado Oposiciones para Técnico Auxiliar de Informática de la Administración General del Estado
 
 ---
 
